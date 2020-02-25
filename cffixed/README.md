@@ -32,7 +32,7 @@
 
 您可以前往[爱发电](https://afdian.net/@cfsys-gjx)赞助我们。
 
-[更新日志](https://extraordinary-lab.github.com/cffixed/Update.md)
+[更新日志](https://extraordinary-lab.github.com/cffixed/Update)
 
 ```
 (c)2019-2020 extraordinary-lab
