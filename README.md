@@ -2,4 +2,6 @@
 
 [CFChrome计划](https://extraodinary-lab.github.io/CFChrome)
 
-[cffixed](https://extraordinary-lab.github.io/cffixed)
+[cffixed](https://extraodinary-lab.github.io/cffixed)
+
+[CFVideo](https://extraodinary-lab.github.io/cfvideo)
